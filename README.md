@@ -80,6 +80,3 @@ Found more bloatware to remove?
 2. Add package names to `post-fs-data.sh`
 3. Submit a Pull Request
 
-## License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
