@@ -1,4 +1,4 @@
-# DeBloater - Magisk Module
+# XOS-REMOVING - Magisk Module
 
 [![License](https://img.shields.io/github/license/yourusername/DeBloater?color=blue)](LICENSE)
 [![Magisk](https://img.shields.io/badge/Magisk-20.4%2B-brightgreen)](https://github.com/topjohnwu/Magisk)
